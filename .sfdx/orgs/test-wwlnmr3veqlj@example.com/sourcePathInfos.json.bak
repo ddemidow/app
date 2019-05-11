@@ -1,0 +1,1892 @@
+[
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557578402421,
+            "changeTime": 1557587519639,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557589087428,
+            "changeTime": 1557589087428,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557589090182,
+            "changeTime": 1557589090182,
+            "contentHash": "c406e5f2407ef9d3a8207dc19744c11900a63ae0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557589089946,
+            "changeTime": 1557589090222,
+            "contentHash": "fe81c49653a92f380ed897b1c6304c754b7de31f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\aura\\home",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\aura\\home",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557589089943,
+            "changeTime": 1557589089943,
+            "contentHash": "3ab5063145df3ef26cc6c8011c409ceb83d83b9c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\aura\\home\\home.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\aura\\home\\home.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 214,
+            "modifiedTime": 1557575000763,
+            "changeTime": 1557575000763,
+            "contentHash": "407a14e54b2a31f34bdc3d6864f898b846cd6f14",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\aura\\home\\home.cmp",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\aura\\home\\home.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 62,
+            "modifiedTime": 1557575000764,
+            "changeTime": 1557575000764,
+            "contentHash": "50e6ddb0c3bd1073d0fbeaf782334b26fe6dc593",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\aura\\home\\home.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\aura\\home\\home.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 241,
+            "modifiedTime": 1557575000765,
+            "changeTime": 1557575000765,
+            "contentHash": "6b2689e715249e5f52ae6073a3618be0f99f375c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\aura\\home\\home.css",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\aura\\home\\home.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 12,
+            "modifiedTime": 1557575000767,
+            "changeTime": 1557575000767,
+            "contentHash": "62fce833b8cbf54a137353694e5e7fb5183a3aa5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\aura\\home\\home.design",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\aura\\home\\home.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 42,
+            "modifiedTime": 1557575000768,
+            "changeTime": 1557575000768,
+            "contentHash": "6ea7d49903f517fcd762a13181f931479bb35c24",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\aura\\home\\home.svg",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\aura\\home\\home.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 667,
+            "modifiedTime": 1557575000768,
+            "changeTime": 1557575000768,
+            "contentHash": "fe7fd10b3d5c910463a4cbaaa998b5e75bd6ca8a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\aura\\home\\homeController.js",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\aura\\home\\homeController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 70,
+            "modifiedTime": 1557575000769,
+            "changeTime": 1557575000769,
+            "contentHash": "71e888bad43bee50e7680e4cdabf4d0ffc6e5de6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\aura\\home\\homeHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\aura\\home\\homeHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1557575000770,
+            "changeTime": 1557575000770,
+            "contentHash": "918895777e9adcce0220bbeb98deb77808a77b47",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\aura\\home\\homeRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\aura\\home\\homeRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 55,
+            "modifiedTime": 1557575000770,
+            "changeTime": 1557575000770,
+            "contentHash": "3ef474273bcb41f3564687a65b0357460ae004ed",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\aura\\homeWrapper",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\aura\\homeWrapper",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557589089961,
+            "changeTime": 1557589089961,
+            "contentHash": "84d811db7c0f083582af7979376e6a0c716610ab",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\aura\\homeWrapper\\homeWrapper.app",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\aura\\homeWrapper\\homeWrapper.app",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 262,
+            "modifiedTime": 1557575000771,
+            "changeTime": 1557575000771,
+            "contentHash": "4d2f14f819b266aa0becb8a31e11be3f2b9714f5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\aura\\homeWrapper\\homeWrapper.app-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\aura\\homeWrapper\\homeWrapper.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 250,
+            "modifiedTime": 1557575000772,
+            "changeTime": 1557575000772,
+            "contentHash": "148d6c7169ec8868671af211701b392382c20ea7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\aura\\homeWrapper\\homeWrapper.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\aura\\homeWrapper\\homeWrapper.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 214,
+            "modifiedTime": 1557575000772,
+            "changeTime": 1557575000772,
+            "contentHash": "407a14e54b2a31f34bdc3d6864f898b846cd6f14",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\aura\\homeWrapper\\homeWrapper.css",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\aura\\homeWrapper\\homeWrapper.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 12,
+            "modifiedTime": 1557575000773,
+            "changeTime": 1557575000773,
+            "contentHash": "62fce833b8cbf54a137353694e5e7fb5183a3aa5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\aura\\homeWrapper\\homeWrapper.svg",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\aura\\homeWrapper\\homeWrapper.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 667,
+            "modifiedTime": 1557575000774,
+            "changeTime": 1557575000774,
+            "contentHash": "fe7fd10b3d5c910463a4cbaaa998b5e75bd6ca8a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\aura\\homeWrapper\\homeWrapperController.js",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\aura\\homeWrapper\\homeWrapperController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 70,
+            "modifiedTime": 1557575000775,
+            "changeTime": 1557575000775,
+            "contentHash": "71e888bad43bee50e7680e4cdabf4d0ffc6e5de6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\aura\\homeWrapper\\homeWrapperHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\aura\\homeWrapper\\homeWrapperHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1557575000776,
+            "changeTime": 1557575000776,
+            "contentHash": "918895777e9adcce0220bbeb98deb77808a77b47",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\aura\\homeWrapper\\homeWrapperRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\aura\\homeWrapper\\homeWrapperRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 55,
+            "modifiedTime": 1557575000777,
+            "changeTime": 1557575000777,
+            "contentHash": "3ef474273bcb41f3564687a65b0357460ae004ed",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\classes",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557589089987,
+            "changeTime": 1557589090226,
+            "contentHash": "d07e050a2194a52ee0d99fd53d0ed84a96410f0d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\classes\\ActionControllerTemplate.cls",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\classes\\ActionControllerTemplate.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1557,
+            "modifiedTime": 1557575000780,
+            "changeTime": 1557575000780,
+            "contentHash": "16cb86028b4b46878deddd34e0fc474ce2081eac",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\classes\\ActionControllerTemplate.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\classes\\ActionControllerTemplate.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 207,
+            "modifiedTime": 1557575000781,
+            "changeTime": 1557575000781,
+            "contentHash": "91506f40f53a669b92be4e76e73a7950e7381032",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\classes\\HomePageController.cls",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\classes\\HomePageController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1153,
+            "modifiedTime": 1557575000782,
+            "changeTime": 1557575000782,
+            "contentHash": "93f511daa22a60cdc1199cd64720166aeaf2f67c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\classes\\HomePageController.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\classes\\HomePageController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 201,
+            "modifiedTime": 1557575000783,
+            "changeTime": 1557575000783,
+            "contentHash": "fecfd6da89e8484e5c6476fc1b3e0bbc443bff2a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\classes\\LoginController.cls",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\classes\\LoginController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1208,
+            "modifiedTime": 1557575000784,
+            "changeTime": 1557575000784,
+            "contentHash": "e6234413852d19c603b7dc4c293bf8d209453d04",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\classes\\LoginController.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\classes\\LoginController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 198,
+            "modifiedTime": 1557575000784,
+            "changeTime": 1557575000784,
+            "contentHash": "96090c0542e6c8381f1c3a73699604620b957a85",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\classes\\ManageProductController.cls",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\classes\\ManageProductController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2036,
+            "modifiedTime": 1557575000785,
+            "changeTime": 1557575000785,
+            "contentHash": "24b4abcbc121029d2c2c4949a929acfd2b89ee3f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\classes\\ManageProductController.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\classes\\ManageProductController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 206,
+            "modifiedTime": 1557575000786,
+            "changeTime": 1557575000786,
+            "contentHash": "82fe66cbfea12c64e318f18c32b4a420eb01da64",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\classes\\ManageUsersController.cls",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\classes\\ManageUsersController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1130,
+            "modifiedTime": 1557575000786,
+            "changeTime": 1557575000786,
+            "contentHash": "ca400575a2a9282407de8a2639bb01427dff20b1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\classes\\ManageUsersController.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\classes\\ManageUsersController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 204,
+            "modifiedTime": 1557575000787,
+            "changeTime": 1557575000787,
+            "contentHash": "3832f16cb41c76abe8b125b3fbfa13515e1ca008",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\classes\\ProductListController.cls",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\classes\\ProductListController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 797,
+            "modifiedTime": 1557575000787,
+            "changeTime": 1557575000787,
+            "contentHash": "034947c01079c8bc162f02ebc0185987614d5940",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\classes\\ProductListController.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\classes\\ProductListController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 204,
+            "modifiedTime": 1557575000788,
+            "changeTime": 1557575000788,
+            "contentHash": "81817f984265488d028c0d9504293daa7e3c0f6d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\classes\\Utils.cls",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\classes\\Utils.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1646,
+            "modifiedTime": 1557575000789,
+            "changeTime": 1557575000789,
+            "contentHash": "57f3b06f306518a91e981e17f7d8a777d7e638ff",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\classes\\Utils.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\classes\\Utils.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 188,
+            "modifiedTime": 1557575000789,
+            "changeTime": 1557575000789,
+            "contentHash": "915856c585a6e7a02d3a07a21ed4a04a995322a1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\flexipages",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557589089991,
+            "changeTime": 1557589090228,
+            "contentHash": "25ec0091848cf5b452fa87f332e8320313dc2864",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\flexipages\\App.flexipage-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\flexipages\\App.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 487,
+            "modifiedTime": 1557575000790,
+            "changeTime": 1557575000790,
+            "contentHash": "ed7e4cde30ab616b96c26549d52df1b4cc46dfe6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\layouts",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557589090009,
+            "changeTime": 1557589090230,
+            "contentHash": "6f468c13865e8ab5526ba7264aee45bbfcad4096",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\layouts\\Category__c-Category Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\layouts\\Category__c-Category Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2530,
+            "modifiedTime": 1557575000791,
+            "changeTime": 1557575000791,
+            "contentHash": "8b103df2f8c285db5ae3316c150a117b70806499",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\layouts\\Company_info__mdt-Company info Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\layouts\\Company_info__mdt-Company info Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2260,
+            "modifiedTime": 1557575000792,
+            "changeTime": 1557575000792,
+            "contentHash": "ad8dda1c2a71abbae24181d10535d7d1e644044f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\layouts\\Main_Company__c-Main Company Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\layouts\\Main_Company__c-Main Company Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2860,
+            "modifiedTime": 1557575000793,
+            "changeTime": 1557575000793,
+            "contentHash": "05e9613d90f40fd8b5d652411da0470e4143a0a3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\layouts\\Product2-Product Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\layouts\\Product2-Product Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3182,
+            "modifiedTime": 1557575000794,
+            "changeTime": 1557575000794,
+            "contentHash": "06a41ff64b6a76495510b5df33b193c327f339d7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\layouts\\Product_Configuration__c-Product Configuration Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\layouts\\Product_Configuration__c-Product Configuration Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2585,
+            "modifiedTime": 1557575000796,
+            "changeTime": 1557575000796,
+            "contentHash": "acb24f320586e00faf9caf736e54863b1714ffd7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\layouts\\Product_Field__c-Product Field Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\layouts\\Product_Field__c-Product Field Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2278,
+            "modifiedTime": 1557575000797,
+            "changeTime": 1557575000797,
+            "contentHash": "61c0a7d247e3b75f72027fb07af531fa865c3ecc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\layouts\\User_Role__c-User Role Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\layouts\\User_Role__c-User Role Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2874,
+            "modifiedTime": 1557575000798,
+            "changeTime": 1557575000798,
+            "contentHash": "2156fb380a2a88b081ea58da72c76ed751a6f04f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\layouts\\User__c-User Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\layouts\\User__c-User Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3257,
+            "modifiedTime": 1557575000799,
+            "changeTime": 1557575000799,
+            "contentHash": "3656195c337233de157d81da567484f850378a47",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\lwc",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557589090044,
+            "changeTime": 1557589090233,
+            "contentHash": "f5304b414f779fc4a3e597b744864af072fd53f1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\lwc\\homeSection",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\lwc\\homeSection",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557589090020,
+            "changeTime": 1557589090020,
+            "contentHash": "fb8385618c2ca1512cbb190e19f03cacee573617",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\lwc\\homeSection\\homeSection.css",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\lwc\\homeSection\\homeSection.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 54,
+            "modifiedTime": 1557575000802,
+            "changeTime": 1557575000802,
+            "contentHash": "2ea6cd891fcb80d2f5735e77baa03f21664dde53",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\lwc\\homeSection\\homeSection.html",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\lwc\\homeSection\\homeSection.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 5580,
+            "modifiedTime": 1557575000803,
+            "changeTime": 1557575000803,
+            "contentHash": "e3bbd52215e9a818c61a37945b8bdf20aef71d6e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\lwc\\homeSection\\homeSection.js",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\lwc\\homeSection\\homeSection.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2963,
+            "modifiedTime": 1557575000803,
+            "changeTime": 1557575000803,
+            "contentHash": "797e5dc1c00f3e555e77eb89a7225886f2efd548",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\lwc\\homeSection\\homeSection.js-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\lwc\\homeSection\\homeSection.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 230,
+            "modifiedTime": 1557575000804,
+            "changeTime": 1557575000804,
+            "contentHash": "929cdc84b21b80cf87854030c6814e1055293e7f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\lwc\\manageProductSection",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\lwc\\manageProductSection",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557589090028,
+            "changeTime": 1557589090028,
+            "contentHash": "c77494e569210725a358e8b64e6b3bcbd8d113ac",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\lwc\\manageProductSection\\manageProductSection.html",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\lwc\\manageProductSection\\manageProductSection.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 9558,
+            "modifiedTime": 1557575000805,
+            "changeTime": 1557575000805,
+            "contentHash": "2da86abc340f17d590ce43bdd45dbe2f6cd1bd56",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\lwc\\manageProductSection\\manageProductSection.js",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\lwc\\manageProductSection\\manageProductSection.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 6288,
+            "modifiedTime": 1557575000806,
+            "changeTime": 1557575000806,
+            "contentHash": "fb1fd0c2ab71266853b8052cc83325d81f4ef586",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\lwc\\manageProductSection\\manageProductSection.js-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\lwc\\manageProductSection\\manageProductSection.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 239,
+            "modifiedTime": 1557575000806,
+            "changeTime": 1557575000806,
+            "contentHash": "00654ec52a054cfa78c1ebd78d7346098fe581b5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\lwc\\manageUsersSection",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\lwc\\manageUsersSection",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557589090035,
+            "changeTime": 1557589090035,
+            "contentHash": "81e4bfe4197769455da022868b1f1c40fa0d233c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\lwc\\manageUsersSection\\manageUsersSection.html",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\lwc\\manageUsersSection\\manageUsersSection.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 8069,
+            "modifiedTime": 1557575000807,
+            "changeTime": 1557575000807,
+            "contentHash": "7e0e9f70bd9fd903c31aa7311120480e59260f0e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\lwc\\manageUsersSection\\manageUsersSection.js",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\lwc\\manageUsersSection\\manageUsersSection.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 3001,
+            "modifiedTime": 1557575000808,
+            "changeTime": 1557575000808,
+            "contentHash": "3de52cb6aa23df73eaa420d690c29b949854c87a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\lwc\\manageUsersSection\\manageUsersSection.js-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\lwc\\manageUsersSection\\manageUsersSection.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 237,
+            "modifiedTime": 1557575000808,
+            "changeTime": 1557575000808,
+            "contentHash": "72227e20a54f231719310504f6fc7da1c486a1ff",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\lwc\\productListSection",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\lwc\\productListSection",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557589090042,
+            "changeTime": 1557589090042,
+            "contentHash": "75372d86dbe33684a9ef8c04d1037b2e1b5f744d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\lwc\\productListSection\\productListSection.html",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\lwc\\productListSection\\productListSection.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 4993,
+            "modifiedTime": 1557575000810,
+            "changeTime": 1557575000810,
+            "contentHash": "d8235c0bdd58ae493f8f75473c761b9480f59613",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\lwc\\productListSection\\productListSection.js",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\lwc\\productListSection\\productListSection.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 5791,
+            "modifiedTime": 1557575000811,
+            "changeTime": 1557575000811,
+            "contentHash": "6ed7c119a8ce9cb6fbcfae508f8c21feef6b269d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\lwc\\productListSection\\productListSection.js-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\lwc\\productListSection\\productListSection.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 237,
+            "modifiedTime": 1557575000812,
+            "changeTime": 1557575000812,
+            "contentHash": "1d19c1989f1a63dd4da9051bd6b13e2ab765926a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\lwc\\setupWizard",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\lwc\\setupWizard",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557589090050,
+            "changeTime": 1557589090050,
+            "contentHash": "fae0ecfe490837ee56c168dfa3938aa8b68423ad",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\lwc\\setupWizard\\setupWizard.html",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\lwc\\setupWizard\\setupWizard.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 3594,
+            "modifiedTime": 1557575000815,
+            "changeTime": 1557575000815,
+            "contentHash": "4616fd5e6c7dfe1560b326059526f3a9ad303e7c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\lwc\\setupWizard\\setupWizard.js",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\lwc\\setupWizard\\setupWizard.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2792,
+            "modifiedTime": 1557575000816,
+            "changeTime": 1557575000816,
+            "contentHash": "091fece50eb8532617018d0b8dbebd2956cc4472",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\lwc\\setupWizard\\setupWizard.js-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\lwc\\setupWizard\\setupWizard.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 305,
+            "modifiedTime": 1557575000816,
+            "changeTime": 1557575000816,
+            "contentHash": "93d5b8baf364ab908b67c8f4523b330628fb439b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\objects",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557589090157,
+            "changeTime": 1557589090234,
+            "contentHash": "4a9de2b2bb4b76489fb7f4634f788ba3240f167f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\objects\\Category__c",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\objects\\Category__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557589090062,
+            "changeTime": 1557589090062,
+            "contentHash": "42c730d152af139f7d1a79e6575badea7b4d775f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\objects\\Category__c\\Category__c.object-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\objects\\Category__c\\Category__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2169,
+            "modifiedTime": 1557575000818,
+            "changeTime": 1557575000818,
+            "contentHash": "a33f2ebac92d007d8da12559bbabea75bf737d05",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\objects\\Category__c\\fields",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\objects\\Category__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557589090060,
+            "changeTime": 1557589090060,
+            "contentHash": "680775647c7ce8e107692656d9f60cea42208cfe",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\objects\\Category__c\\fields\\Master_Category__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\objects\\Category__c\\fields\\Master_Category__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 581,
+            "modifiedTime": 1557575000819,
+            "changeTime": 1557575000819,
+            "contentHash": "888570669e81109073c77b014e68296a1d406869",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\objects\\Category__c\\listViews",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\objects\\Category__c\\listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557589090064,
+            "changeTime": 1557589090064,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\objects\\Category__c\\listViews\\All.listView-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\objects\\Category__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 210,
+            "modifiedTime": 1557575000819,
+            "changeTime": 1557575000819,
+            "contentHash": "0e12c1b5a25bc6685e00c26cb98c9986fc1d82c4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\objects\\Company_info__mdt",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\objects\\Company_info__mdt",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557589090068,
+            "changeTime": 1557589090068,
+            "contentHash": "2d804a8b0e59909976468740b440a721453f7fce",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\objects\\Company_info__mdt\\Company_info__mdt.object-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\objects\\Company_info__mdt\\Company_info__mdt.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 237,
+            "modifiedTime": 1557575000828,
+            "changeTime": 1557575000828,
+            "contentHash": "88923cd8f5a4530453bbb7a69eb84e801622b109",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\objects\\Main_Company__c",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\objects\\Main_Company__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557589090074,
+            "changeTime": 1557589090074,
+            "contentHash": "d840d099f403b735498289a12ceee0d964b9b702",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\objects\\Main_Company__c\\listViews",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\objects\\Main_Company__c\\listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557589090075,
+            "changeTime": 1557589090075,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\objects\\Main_Company__c\\listViews\\All.listView-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\objects\\Main_Company__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 210,
+            "modifiedTime": 1557575000836,
+            "changeTime": 1557575000836,
+            "contentHash": "0e12c1b5a25bc6685e00c26cb98c9986fc1d82c4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\objects\\Main_Company__c\\Main_Company__c.object-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\objects\\Main_Company__c\\Main_Company__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2179,
+            "modifiedTime": 1557575000832,
+            "changeTime": 1557575000832,
+            "contentHash": "07f8b38ca451beef19275f23514f2d14e313495b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\objects\\Product2",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\objects\\Product2",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557589090079,
+            "changeTime": 1557589090079,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\objects\\Product2\\fields",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\objects\\Product2\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557589090082,
+            "changeTime": 1557589090082,
+            "contentHash": "7c900ba7a68bddfd0739ecab0c82e41fce766cf3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\objects\\Product2\\fields\\Category__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\objects\\Product2\\fields\\Category__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 517,
+            "modifiedTime": 1557575000838,
+            "changeTime": 1557575000838,
+            "contentHash": "94d4ba9101f7a5c06eaba96147e3b574f8484c4f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\objects\\Product_Configuration__c",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\objects\\Product_Configuration__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557589090094,
+            "changeTime": 1557589090094,
+            "contentHash": "bdd61b6c56b9ac6d611955a9d0a918a145bb351c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\objects\\Product_Configuration__c\\fields",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\objects\\Product_Configuration__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557589090092,
+            "changeTime": 1557589090092,
+            "contentHash": "ab945e3962cfb0e0e7255f8abbdfd5b2b182a2d2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\objects\\Product_Configuration__c\\fields\\Api_Name__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\objects\\Product_Configuration__c\\fields\\Api_Name__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 371,
+            "modifiedTime": 1557575000840,
+            "changeTime": 1557575000840,
+            "contentHash": "ec7a2b713d8ff771cb9a6a65c513a1cd6be28c7a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\objects\\Product_Configuration__c\\fields\\Description__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\objects\\Product_Configuration__c\\fields\\Description__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 379,
+            "modifiedTime": 1557575000841,
+            "changeTime": 1557575000841,
+            "contentHash": "8daa0bcf33a3674f217a66d8a3ec9379c14a36d9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\objects\\Product_Configuration__c\\fields\\Type__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\objects\\Product_Configuration__c\\fields\\Type__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 991,
+            "modifiedTime": 1557575000842,
+            "changeTime": 1557575000842,
+            "contentHash": "7e5993623458dd75c7ab82de3df3f078562a332e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\objects\\Product_Configuration__c\\listViews",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\objects\\Product_Configuration__c\\listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557589090096,
+            "changeTime": 1557589090096,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\objects\\Product_Configuration__c\\listViews\\All.listView-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\objects\\Product_Configuration__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 210,
+            "modifiedTime": 1557575000843,
+            "changeTime": 1557575000843,
+            "contentHash": "0e12c1b5a25bc6685e00c26cb98c9986fc1d82c4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\objects\\Product_Configuration__c\\Product_Configuration__c.object-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\objects\\Product_Configuration__c\\Product_Configuration__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2157,
+            "modifiedTime": 1557575000839,
+            "changeTime": 1557575000839,
+            "contentHash": "d331065d480c6d54789a5b14007d874fce8eb789",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\objects\\Product_Field__c",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\objects\\Product_Field__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557589090103,
+            "changeTime": 1557589090103,
+            "contentHash": "0cc86505871a8c2c6f965f153a530460fb7649f9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\objects\\Product_Field__c\\fields",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\objects\\Product_Field__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557589090146,
+            "changeTime": 1557589090146,
+            "contentHash": "01ff08572135d35533c9dbf8b9a63d92ec36dc40",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\objects\\Product_Field__c\\fields\\Product_Configuration__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\objects\\Product_Field__c\\fields\\Product_Configuration__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 706,
+            "modifiedTime": 1557575000849,
+            "changeTime": 1557575000849,
+            "contentHash": "4158357296f14e68c07822d76eb8b1f20fe6b375",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\objects\\Product_Field__c\\fields\\Product__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\objects\\Product_Field__c\\fields\\Product__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 566,
+            "modifiedTime": 1557575000850,
+            "changeTime": 1557575000850,
+            "contentHash": "6be79d5cd7c9a2fd4e38a3cb9d838b2bb1e50b76",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\objects\\Product_Field__c\\fields\\Value__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\objects\\Product_Field__c\\fields\\Value__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 392,
+            "modifiedTime": 1557575000850,
+            "changeTime": 1557575000850,
+            "contentHash": "5fd64aa9a13d6a2d12d4491c019d13a128da92e0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\objects\\Product_Field__c\\Product_Field__c.object-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\objects\\Product_Field__c\\Product_Field__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2192,
+            "modifiedTime": 1557575000847,
+            "changeTime": 1557575000847,
+            "contentHash": "5c2b1b0a8757e84bde85aab7a60e67eb2e5da63b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\objects\\User_Role__c",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\objects\\User_Role__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557589090152,
+            "changeTime": 1557589090152,
+            "contentHash": "766845dd2a803545a40c88f6ca23c45d95d9109f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\objects\\User_Role__c\\fields",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\objects\\User_Role__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557589090153,
+            "changeTime": 1557589090153,
+            "contentHash": "721a9e232a8165fecdbeba6e9000505e11a1d4a3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\objects\\User_Role__c\\fields\\Priority__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\objects\\User_Role__c\\fields\\Priority__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 440,
+            "modifiedTime": 1557575000852,
+            "changeTime": 1557575000852,
+            "contentHash": "813ba1f1933c11170456d66cee339b14347dec17",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\objects\\User_Role__c\\User_Role__c.object-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\objects\\User_Role__c\\User_Role__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2170,
+            "modifiedTime": 1557575000851,
+            "changeTime": 1557575000851,
+            "contentHash": "d77a736c7df1f7c03536e6a4f1cf77714cb9d4d5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\objects\\User__c",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\objects\\User__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557589090172,
+            "changeTime": 1557589090172,
+            "contentHash": "d2b6f292465ca9ac07c539c6beeaa06713d071cd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\objects\\User__c\\fields",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\objects\\User__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557589090169,
+            "changeTime": 1557589090169,
+            "contentHash": "d748cc031303eaddb52e8267b68f986c599cfb23",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\objects\\User__c\\fields\\Email__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\objects\\User__c\\fields\\Email__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 382,
+            "modifiedTime": 1557575000855,
+            "changeTime": 1557575000855,
+            "contentHash": "066e63d392f48ae8e7b079939e970d1320d3ce5b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\objects\\User__c\\fields\\Main_Company__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\objects\\User__c\\fields\\Main_Company__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 566,
+            "modifiedTime": 1557575000856,
+            "changeTime": 1557575000856,
+            "contentHash": "fa72c1e3a4e61fad28a633dab8f1d1767b1a9702",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\objects\\User__c\\fields\\Password__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\objects\\User__c\\fields\\Password__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 412,
+            "modifiedTime": 1557575000857,
+            "changeTime": 1557575000857,
+            "contentHash": "ffdf758caefa4157b178a131d073cccd96b63624",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\objects\\User__c\\fields\\Username__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\objects\\User__c\\fields\\Username__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 452,
+            "modifiedTime": 1557575000858,
+            "changeTime": 1557575000858,
+            "contentHash": "46f5c50efd94b666ffd63f9f5feaa854846a0548",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\objects\\User__c\\fields\\User_Role__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\objects\\User__c\\fields\\User_Role__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 646,
+            "modifiedTime": 1557575000858,
+            "changeTime": 1557575000858,
+            "contentHash": "ff1bc83450dd960e40d12b7d4bf711f6623877a6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\objects\\User__c\\User__c.object-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\objects\\User__c\\User__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2163,
+            "modifiedTime": 1557575000854,
+            "changeTime": 1557575000854,
+            "contentHash": "b0cbfdc113e4db7b8e09294af8faa569a57f92b3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\objects\\User__c\\validationRules",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\objects\\User__c\\validationRules",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557589090174,
+            "changeTime": 1557589090174,
+            "contentHash": "6519532afe07c52046a85d4fe5fca3448f38d033",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\objects\\User__c\\validationRules\\Company_Required.validationRule-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\objects\\User__c\\validationRules\\Company_Required.validationRule-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 382,
+            "modifiedTime": 1557575000860,
+            "changeTime": 1557575000860,
+            "contentHash": "55862726717de5d4bde9e93b1dca4b2537ced5b3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\pages",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\pages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557589090181,
+            "changeTime": 1557589090236,
+            "contentHash": "3593ddf1376429b19420073f273725d786948bec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\pages\\Home.page",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\pages\\Home.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 711,
+            "modifiedTime": 1557575000862,
+            "changeTime": 1557575000862,
+            "contentHash": "5d5cecb9a678f25d05669ec4ffeacf992862fec6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\pages\\Home.page-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\pages\\Home.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 181,
+            "modifiedTime": 1557575000864,
+            "changeTime": 1557575000864,
+            "contentHash": "20c0f34f9e156ee0b9a9852b2811ae590a1d3b48",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\tabs",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557589090195,
+            "changeTime": 1557589090238,
+            "contentHash": "1d896993f313b88212b6ca62084814ffabadcd3b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\tabs\\App.tab-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\tabs\\App.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 308,
+            "modifiedTime": 1557575000870,
+            "changeTime": 1557575000870,
+            "contentHash": "d926891588bcc23f6069410015b51b74f799a403",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\tabs\\Category__c.tab-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\tabs\\Category__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 229,
+            "modifiedTime": 1557575000871,
+            "changeTime": 1557575000871,
+            "contentHash": "8919653a7ac18d1bc8adbfadf639aaed51deaf11",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\tabs\\Main_Company__c.tab-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\tabs\\Main_Company__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 230,
+            "modifiedTime": 1557575000871,
+            "changeTime": 1557575000871,
+            "contentHash": "eb019f7d802f6b8e3bb07b74750d177ff6e890b2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\tabs\\Product_Configuration__c.tab-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\tabs\\Product_Configuration__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 234,
+            "modifiedTime": 1557575000873,
+            "changeTime": 1557575000873,
+            "contentHash": "cb49e59afef818633f004353ca5a9f1c073b4d1a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\tabs\\User_Role__c.tab-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\tabs\\User_Role__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 232,
+            "modifiedTime": 1557575000874,
+            "changeTime": 1557575000874,
+            "contentHash": "2f3485f0dbbbcbd27ba8cdc783f9176e68f9e29c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\tabs\\User__c.tab-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork\\force-app\\main\\default\\tabs\\User__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1557575000874,
+            "changeTime": 1557575000874,
+            "contentHash": "2e8d4acf53838ad06642c25873b0c9bd4bf6bfde",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\projects\\pr_app\\mywork",
+        {
+            "state": "n",
+            "sourcePath": "D:\\projects\\pr_app\\mywork",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557587519639,
+            "changeTime": 1557587519639,
+            "contentHash": "3d48858a737ab8c39315eaf1c5149980d1a9cdae",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]

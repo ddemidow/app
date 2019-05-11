@@ -1,0 +1,87 @@
+<template>
+    <lightning-card title="All Products" icon-name="utility:opened_folder">
+        <div slot="actions">
+            <template if:false={showFiltersMode}>
+                <lightning-button name="1" slot="actions" icon-name="utility:down" onclick={filtersMode} label="Show Filters"></lightning-button>
+            </template>
+            <templaete if:true={showFiltersMode}>
+                <lightning-button  slot="actions" icon-name="utility:up" onclick={filtersMode} label="Hide Filters"></lightning-button>
+            </templaete>
+        </div>
+
+        <lightning-layout multiple-rows="true" horizontal-align="center">
+            <template if:true={showFiltersMode}>
+                <template for:each={categoriesToShow} for:item="categoriesLevel">
+                    <template for:each={categoriesLevel.data} for:item="category">
+                        <lightning-layout-item  size="2" key={category.Id} class="slds-p-horizontal_xx-small">
+
+                            <div class="slds-p-around_medium lgc-bg slds-box">
+                                <lightning-layout>
+                                    <lightning-layout-item size="8">
+                                        <lightning-tile label={category.name} id={category.id} name={category.level}  >
+                                        </lightning-tile>
+                                    </lightning-layout-item>
+                                    <lightning-layout-item size="2" class="slds-p-horizontal_xx-small">
+                                        <lightning-button-icon icon-name={category.iconName}
+                                                               id={category.id}
+                                                               name={category.level}
+                                                               onclick={handleCategoryClick}
+                                                               alternative-text="expand">
+
+                                        </lightning-button-icon>
+                                    </lightning-layout-item>
+                                    <lightning-layout-item size="2" class="slds-p-horizontal_xx-small">
+                                        <lightning-input id={category.id}
+                                                         type="checkbox-button"
+                                                         label=""
+                                                         name={category.level}
+                                                         checked={category.value}
+                                                         onchange={handleCategoryClick}>
+                                        </lightning-input>
+                                    </lightning-layout-item>
+                                </lightning-layout>
+                            </div>
+                        </lightning-layout-item>
+                    </template>
+
+
+
+                    <lightning-layout-item size="12" key={categoriesLevel.index}>
+                        <div class="slds-p-around_x-small"></div>
+                    </lightning-layout-item>
+                </template>
+            </template>
+
+
+
+            <template if:true={showFiltersMode}>
+                <lightning-layout-item size="4">
+                    <div class="slds-panel slds-size_medium slds-panel_docked slds-panel_docked-right slds-is-open" aria-hidden="false">
+                        <div class="slds-panel__header">
+                            <h2 class="slds-panel__header-title slds-text-heading_small slds-truncate" title="Filter">Filter</h2>
+                        </div>
+                        <div class="slds-panel__body">
+                            <div class="slds-filters">
+                                <template for:each={configsToShow} for:item="config">
+                                    <ol class="slds-list_vertical slds-list_vertical-space" key={config.id}>
+                                        <li class="slds-item slds-hint-parent">
+                                            <template if:true={config.isSelect}>
+
+                                            </template>
+                                            <template if:false={config.isSelect}>
+                                                <lightning-input name={config.index} label={config.name} type={config.type} onchange={handleFilterChange}></lightning-input>
+                                            </template>
+                                        </li>
+                                    </ol>
+                                </template>
+                            </div>
+                        </div>
+                    </div>
+                </lightning-layout-item>
+            </template>
+            <lightning-layout-item size="8">
+
+            </lightning-layout-item>
+        </lightning-layout>
+    </lightning-card>
+</template>
